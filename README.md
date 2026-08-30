@@ -4,7 +4,7 @@
 
 ## Dashboard Preview
 
-![Retail Sales & Profitability Dashboard](dashboard_image.png)
+![Retail Sales & Profitability Dashboard](dashboard-image.png)
 
 ## Project Overview
 
@@ -22,7 +22,7 @@ The main goal was to create a simple and interactive report that makes it easier
 
 ### Source Data
 
-![Source Data](source_data.png)
+![Source Data](source-data.png)
 
 The dataset includes information about:
 
@@ -119,7 +119,7 @@ The dashboard was created to answer questions such as:
 5. Select different brands, channels, dates, payment methods, regions, cities, stores, or products.
 6. Explore the KPIs and charts to understand sales and profitability performance.
 
-[📥 Download the Excel Dashboard](retail_sales_dashboard.xlsx)
+[📥 Download the Excel Dashboard](retail-sales-dashboard.xlsx)
 
 > For the best experience, download the workbook and open it in Microsoft Excel. Interactive slicers and dashboard features may not work directly in GitHub's preview.
 
